@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ascii-art": "^2.8.5",
+    "readline-sync": "^1.4.10",
     "wynn-api-node": "^3.2.1"
   }
 }
